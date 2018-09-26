@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./app/css/maincss.css","webpack:///./app/less/mainless.less"],"names":[],"mappings":"AAAA;AACA;AACA;;ACFA;AACA;AACA;AACA;AACA","file":"css/js/main_e319d10d.css","sourcesContent":["div {\n  color: red;\n}\n","ul li {\n  color: orange;\n  font-size: 20px;\n  background: yellowgreen;\n}\n"],"sourceRoot":""}
